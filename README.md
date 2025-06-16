@@ -1,5 +1,6 @@
 ## Hello 👋
-
+- 🔭 I’m currently working on a website where i can show my comic "Oscar & Gosucho"
+- 🌱 I'm using this project to learn technologies as Angular, PHP...
 <!--
 **PedroPerezDev/PedroPerezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
